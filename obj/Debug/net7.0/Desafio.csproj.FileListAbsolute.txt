@@ -1,0 +1,15 @@
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\bin\Debug\net7.0\Desafio.exe
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\bin\Debug\net7.0\Desafio.deps.json
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\bin\Debug\net7.0\Desafio.runtimeconfig.json
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\bin\Debug\net7.0\Desafio.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\bin\Debug\net7.0\Desafio.pdb
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\obj\Debug\net7.0\Desafio.csproj.AssemblyReference.cache
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\obj\Debug\net7.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\obj\Debug\net7.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\obj\Debug\net7.0\Desafio.AssemblyInfo.cs
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\obj\Debug\net7.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\obj\Debug\net7.0\Desafio.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\obj\Debug\net7.0\refint\Desafio.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\obj\Debug\net7.0\Desafio.pdb
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\obj\Debug\net7.0\Desafio.genruntimeconfig.cache
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Desafio\obj\Debug\net7.0\ref\Desafio.dll
